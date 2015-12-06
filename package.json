@@ -1,0 +1,19 @@
+{
+  "name": "iterator6",
+  "version": "0.0.0",
+  "description": "Collection of iterator tools for ES5 compatability.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "nodeunit tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/websecurify/node-iterator6.git"
+  },
+  "author": "Websecurify",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/websecurify/node-iterator6/issues"
+  },
+  "homepage": "https://github.com/websecurify/node-iterator6#readme"
+}
